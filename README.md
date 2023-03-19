@@ -1,5 +1,5 @@
 # URL-Shortner-Service
-|| API to create short urls using Node, Express and MongoDB
+|| API - create short url using Node, Express & MongoDB
 
 POST api/url-shorten
 { "longUrl": "xyz" }
